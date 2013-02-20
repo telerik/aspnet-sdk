@@ -1,0 +1,108 @@
+﻿html
+{
+    font-size: 12px;
+    font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+}
+
+div .RadUpload, .RadUploadProgressArea
+{
+    text-align: left;
+    width: 220px;
+}
+
+.count
+{
+    font-family: 'Helvetica Neue', Calibri, Helvetica, Arial, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    vertical-align: top;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+
+.albums
+{
+    margin: 5px;
+    width: 200px;
+    height: 126px;
+    padding-left: 10px;
+}
+
+    .albums img
+    {
+        border: 1px solid silver;
+        height: 99px;
+        width: 100px;
+        float: left;
+        margin: 0 5px 5px 0;
+    }
+
+.RadListView_Metro .selected
+{
+    background: #eeeeee; /* Old browsers */
+    background: -moz-linear-gradient(top, #eeeeee 0%, #cccccc 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#cccccc)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #eeeeee 0%,#cccccc 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #eeeeee 0%,#cccccc 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #eeeeee 0%,#cccccc 100%); /* IE10+ */
+    background: linear-gradient(to bottom, #eeeeee 0%,#cccccc 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 ); /* IE6-9 */
+}
+
+div.RadListView .rlvFloated div.imageHolder
+{
+    height: 200px;
+    width: 200px;
+    margin: 5px 10px 5px 0;
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.floatingDiv
+{
+    background-color: black;
+    background-color: rgba(0,0,0, 0.75);
+    height: 25px;
+    position: absolute;
+    text-align: center;
+    top: 172px;
+    vertical-align: middle;
+    width: 200px;
+    padding-top: 6px;
+}
+
+    .floatingDiv a
+    {
+        color: white;
+        text-decoration: none;
+        padding-right: 10px;
+        width: 200px;
+    }
+
+.editTemplate
+{
+    float: left;
+    height: 126px;
+    margin: 5px 5px;
+    padding: 5px 10px 4px;
+    width: 360px;
+    border: 1px solid #999999;
+}
+
+.editTemplateSecond
+{
+    border: 1px solid #999999;
+    float: left;
+    height: 187px;
+    padding: 4px 10px 9px;
+    margin: 5px 10px 5px 0;
+    width: 308px;
+}
+
+html.RadForm.rfdButton a.rfdSkinnedButton
+{
+    margin-bottom: 10px;
+}
+
+

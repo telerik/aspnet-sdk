@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RadGrid", "http://localhost:3882", "{C2FD3973-8C90-4E30-B60B-398D9FFCA65C}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_3882"
+		Debug.AspNetCompiler.PhysicalPath = "RadGrid\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3882\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_3882"
+		Release.AspNetCompiler.PhysicalPath = "RadGrid\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3882\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "RadGrid\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RadTreeList", "RadTreeList\", "{DD8E81D1-533D-491A-89BE-E43902093065}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/RadTreeList"
+		Debug.AspNetCompiler.PhysicalPath = "RadTreeList\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\RadTreeList\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/RadTreeList"
+		Release.AspNetCompiler.PhysicalPath = "RadTreeList\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\RadTreeList\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4666"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RadListView", "RadListView\", "{EB701FF1-A528-4C9C-80D4-1313B06941CA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/RadListView"
+		Debug.AspNetCompiler.PhysicalPath = "RadListView\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\RadListView\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/RadListView"
+		Release.AspNetCompiler.PhysicalPath = "RadListView\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\RadListView\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "21931"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2FD3973-8C90-4E30-B60B-398D9FFCA65C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2FD3973-8C90-4E30-B60B-398D9FFCA65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8E81D1-533D-491A-89BE-E43902093065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8E81D1-533D-491A-89BE-E43902093065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB701FF1-A528-4C9C-80D4-1313B06941CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB701FF1-A528-4C9C-80D4-1313B06941CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
