@@ -1,0 +1,1 @@
+This example demonstrates how to create a custom look that is similar to YearView with seperate RadSchedulers for each month.

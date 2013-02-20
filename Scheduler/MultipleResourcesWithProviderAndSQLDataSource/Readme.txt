@@ -1,0 +1,1 @@
+This example demonstrates how to create a scenario with multiple resources. RadScheduler is bound with custom provider to SQLDataSource.

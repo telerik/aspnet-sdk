@@ -1,0 +1,179 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{35052072-616B-4A33-82A0-DD67F48DF471}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AgendaView", "AgendaView", "{2A895FFF-3D38-4F87-8F7B-F9A3D67A7F41}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/AgendaView"
+		Debug.AspNetCompiler.PhysicalPath = "AgendaView\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\AgendaView\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/AgendaView"
+		Release.AspNetCompiler.PhysicalPath = "AgendaView\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\AgendaView\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60354"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "YearView", "YearView", "{535BB2FE-B8CF-4309-B813-0B1CFE82FEC7}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/YearView"
+		Debug.AspNetCompiler.PhysicalPath = "YearView\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\YearView\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/YearView"
+		Release.AspNetCompiler.PhysicalPath = "YearView\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\YearView\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "24363"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FilteringMultipleResourcesWithComboBox", "FilteringMultipleResourcesWithComboBox", "{F0F07169-B3C6-4BF7-B48D-289F5954526E}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/FilteringMultipleResourcesWithComboBox"
+		Debug.AspNetCompiler.PhysicalPath = "FilteringMultipleResourcesWithComboBox\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\FilteringMultipleResourcesWithComboBox\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/FilteringMultipleResourcesWithComboBox"
+		Release.AspNetCompiler.PhysicalPath = "FilteringMultipleResourcesWithComboBox\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\FilteringMultipleResourcesWithComboBox\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "24365"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AlphabeticalResourceFiltering", "AlphabeticalResourceFiltering", "{6A61A7C9-1B89-4A12-9CA5-C9B91889E540}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/AlphabeticalResourceFiltering"
+		Debug.AspNetCompiler.PhysicalPath = "AlphabeticalResourceFiltering\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\AlphabeticalResourceFiltering\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/AlphabeticalResourceFiltering"
+		Release.AspNetCompiler.PhysicalPath = "AlphabeticalResourceFiltering\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\AlphabeticalResourceFiltering\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "24366"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultipleResourcesWithProviderAndSQLDataSource", "MultipleResourcesWithProviderAndSQLDataSource", "{0347E469-E17E-4561-900C-56E84725FE25}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/MultipleResourcesWithProviderAndSQLDataSource"
+		Debug.AspNetCompiler.PhysicalPath = "MultipleResourcesWithProviderAndSQLDataSource\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\MultipleResourcesWithProviderAndSQLDataSource\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/MultipleResourcesWithProviderAndSQLDataSource"
+		Release.AspNetCompiler.PhysicalPath = "MultipleResourcesWithProviderAndSQLDataSource\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\MultipleResourcesWithProviderAndSQLDataSource\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "24364"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs:8082/defaultcollection
+		SccLocalPath0 = .
+		SccWebProject1 = true
+		SccProjectUniqueName1 = AgendaView
+		SccProjectName1 = AgendaView
+		SccLocalPath1 = AgendaView
+		SccProjectEnlistmentChoice1 = 2
+		SccWebProject2 = true
+		SccProjectUniqueName2 = YearView
+		SccProjectName2 = YearView
+		SccLocalPath2 = YearView
+		SccProjectEnlistmentChoice2 = 2
+		SccWebProject3 = true
+		SccProjectUniqueName3 = FilteringMultipleResourcesWithComboBox
+		SccProjectName3 = FilteringMultipleResourcesWithComboBox
+		SccLocalPath3 = FilteringMultipleResourcesWithComboBox
+		SccProjectEnlistmentChoice3 = 2
+		SccWebProject4 = true
+		SccProjectUniqueName4 = AlphabeticalResourceFiltering
+		SccProjectName4 = AlphabeticalResourceFiltering
+		SccLocalPath4 = AlphabeticalResourceFiltering
+		SccProjectEnlistmentChoice4 = 2
+		SccWebProject5 = true
+		SccProjectUniqueName5 = MultipleResourcesWithProviderAndSQLDataSource
+		SccProjectName5 = MultipleResourcesWithProviderAndSQLDataSource
+		SccLocalPath5 = MultipleResourcesWithProviderAndSQLDataSource
+		SccProjectEnlistmentChoice5 = 2
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A895FFF-3D38-4F87-8F7B-F9A3D67A7F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A895FFF-3D38-4F87-8F7B-F9A3D67A7F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535BB2FE-B8CF-4309-B813-0B1CFE82FEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535BB2FE-B8CF-4309-B813-0B1CFE82FEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0F07169-B3C6-4BF7-B48D-289F5954526E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0F07169-B3C6-4BF7-B48D-289F5954526E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A61A7C9-1B89-4A12-9CA5-C9B91889E540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A61A7C9-1B89-4A12-9CA5-C9B91889E540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0347E469-E17E-4561-900C-56E84725FE25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0347E469-E17E-4561-900C-56E84725FE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

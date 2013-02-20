@@ -1,0 +1,1 @@
+This example demonstrates how to create a custom look that similar to agenda.

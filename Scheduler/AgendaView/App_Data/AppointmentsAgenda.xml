@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Appointments>
+  <NextID>56</NextID>
+  <Resources>
+    <Room>
+      <Key>1</Key>
+      <Text>Meeting room 101</Text>
+    </Room>
+    <User>
+      <Key>1</Key>
+      <Text>Alex</Text>
+    </User>
+    <User>
+      <Key>2</Key>
+      <Text>Bob</Text>
+    </User>
+    <User>
+      <Key>3</Key>
+      <Text>Charlie</Text>
+    </User>
+  </Resources>
+  <Appointment>
+    <ID>21</ID>
+    <Subject>dentist's appointment</Subject>
+    <Start>2010-05-03T09:00Z</Start>
+    <End>2010-05-03T10:00Z</End>
+    <Resources>
+      <User Key="1" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>23</ID>
+    <Subject>take kids to school</Subject>
+    <Start>2010-05-04T08:00Z</Start>
+    <End>2010-05-04T09:00Z</End>
+    <Resources>
+      <User Key="3" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>24</ID>
+    <Subject>Mentor/Coach meeting</Subject>
+    <Start>2010-05-05T12:00Z</Start>
+    <End>2010-05-05T13:00Z</End>
+    <Resources>
+      <User Key="3" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>25</ID>
+    <Subject>scrum meeting</Subject>
+    <Start>2010-05-04T11:00Z</Start>
+    <End>2010-05-04T12:00Z</End>
+    <Resources>
+      <User Key="1" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>26</ID>
+    <Subject>project review</Subject>
+    <Start>2010-05-06T09:00Z</Start>
+    <End>2010-05-06T10:00Z</End>
+    <Resources>
+      <User Key="2" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>27</ID>
+    <Subject>lunch</Subject>
+    <Start>2010-05-06T12:00Z</Start>
+    <End>2010-05-06T13:00Z</End>
+    <Resources>
+      <User Key="2" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>34</ID>
+    <Subject>Start of Imagine Cup 2010 Finals at Poland</Subject>
+    <Start>2010-07-03T00:00Z</Start>
+    <End>2010-07-04T00:00Z</End>
+  </Appointment>
+  <Appointment>
+    <ID>35</ID>
+    <Subject>End of Imagine Cup 2010 Finals at Poland</Subject>
+    <Start>2010-07-09T00:00Z</Start>
+    <End>2010-07-10T00:00Z</End>
+  </Appointment>
+  <Appointment>
+    <ID>36</ID>
+    <Subject>Buy a present for Ekaterina</Subject>
+    <Start>2010-06-01T00:00Z</Start>
+    <End>2010-06-02T00:00Z</End>
+  </Appointment>
+  <Appointment>
+    <ID>37</ID>
+    <Subject>It is Saturday</Subject>
+    <Start>2010-07-03T00:00Z</Start>
+    <End>2010-07-04T00:00Z</End>
+  </Appointment>
+  <Appointment>
+    <ID>38</ID>
+    <Subject>Test</Subject>
+    <Start>2010-07-03T00:00Z</Start>
+    <End>2010-07-04T00:00Z</End>
+  </Appointment>
+  <Appointment>
+    <ID>40</ID>
+    <Subject>tfgh</Subject>
+    <Start>2010-07-13T08:00Z</Start>
+    <End>2010-07-13T09:00Z</End>
+  </Appointment>
+  <Appointment>
+    <ID>41</ID>
+    <Subject>Test</Subject>
+    <Start>2010-07-14T00:00Z</Start>
+    <End>2010-07-15T00:00Z</End>
+    <RecurrenceRule><![CDATA[DTSTART:20100714T000000Z
+DTEND:20100715T000000Z
+RRULE:FREQ=HOURLY;COUNT=3;INTERVAL=1
+EXDATE:20100714T000000Z,20100714T010000Z
+]]></RecurrenceRule>
+  </Appointment>
+  <Appointment>
+    <ID>42</ID>
+    <Subject>Test1</Subject>
+    <Start>2010-07-14T00:00Z</Start>
+    <End>2010-07-15T00:00Z</End>
+    <RecurrenceParentID>41</RecurrenceParentID>
+  </Appointment>
+  <Appointment>
+    <ID>43</ID>
+    <Subject>Test</Subject>
+    <Start>2010-07-15T00:00Z</Start>
+    <End>2010-07-16T00:00Z</End>
+    <RecurrenceParentID>41</RecurrenceParentID>
+  </Appointment>
+  <Appointment>
+    <ID>44</ID>
+    <Subject>a</Subject>
+    <Start>2010-07-15T00:00Z</Start>
+    <End>2010-07-16T00:00Z</End>
+    <Resources>
+      <User Key="1" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>45</ID>
+    <Subject>b</Subject>
+    <Start>2010-07-15T00:00Z</Start>
+    <End>2010-07-16T00:00Z</End>
+    <Resources>
+      <User Key="1" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>46</ID>
+    <Subject>ad</Subject>
+    <Start>2010-07-15T00:00Z</Start>
+    <End>2010-07-16T00:00Z</End>
+    <Resources>
+      <User Key="2" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>47</ID>
+    <Subject>asdf</Subject>
+    <Start>2010-07-15T00:00Z</Start>
+    <End>2010-07-16T00:00Z</End>
+    <Resources>
+      <User Key="2" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>48</ID>
+    <Subject>sdf</Subject>
+    <Start>2010-07-15T00:00Z</Start>
+    <End>2010-07-16T00:00Z</End>
+    <Resources>
+      <User Key="3" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>49</ID>
+    <Subject>asdf</Subject>
+    <Start>2010-07-15T00:00Z</Start>
+    <End>2010-07-16T00:00Z</End>
+    <Resources>
+      <User Key="3" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>50</ID>
+    <Subject>asdf</Subject>
+    <Start>2010-07-15T00:00Z</Start>
+    <End>2010-07-16T00:00Z</End>
+    <Resources>
+      <User Key="3" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>51</ID>
+    <Subject>test</Subject>
+    <Start>2010-07-27T00:00Z</Start>
+    <End>2010-07-28T00:00Z</End>
+    <Resources>
+      <Room Key="1" />
+      <User Key="2" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>52</ID>
+    <Subject>asdas</Subject>
+    <Start>2012-12-06T00:00Z</Start>
+    <End>2012-12-07T00:00Z</End>
+    <Resources>
+      <Room Key="1" />
+      <User Key="3" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>53</ID>
+    <Subject>asdasd</Subject>
+    <Start>2012-12-14T00:00Z</Start>
+    <End>2012-12-15T00:00Z</End>
+    <TimeZoneID>UTC</TimeZoneID>
+  </Appointment>
+  <Appointment>
+    <ID>54</ID>
+    <Subject>asdasdasd</Subject>
+    <Start>2012-12-06T00:00Z</Start>
+    <End>2012-12-07T00:00Z</End>
+    <TimeZoneID>UTC</TimeZoneID>
+    <Resources>
+      <Room Key="1" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>55</ID>
+    <Subject>asdasd</Subject>
+    <Start>2012-12-13T00:00Z</Start>
+    <End>2012-12-14T00:00Z</End>
+    <TimeZoneID>UTC</TimeZoneID>
+    <Resources>
+      <Room Key="1" />
+    </Resources>
+  </Appointment>
+</Appointments>

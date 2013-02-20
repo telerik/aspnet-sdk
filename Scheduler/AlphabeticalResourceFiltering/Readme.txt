@@ -1,0 +1,2 @@
+This example demonstrates how to filter RadScheduler alphabetically by clicking on the button with the appropriate letter.
+You can also reset it by using the Refresh button in the header that will return the initial position.

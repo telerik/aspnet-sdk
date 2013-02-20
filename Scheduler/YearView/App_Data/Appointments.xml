@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Appointments>
+  <NextID>60</NextID>
+  <Resources>
+    <Month>
+      <Key>1</Key>
+      <Text>Month</Text>
+    </Month>
+  </Resources>
+  <Appointment>
+    <ID>55</ID>
+    <Subject>asdasd</Subject>
+    <Start>2012-02-09T00:00Z</Start>
+    <End>2012-02-10T00:00Z</End>
+    <Resources>
+      <Month Key="1" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>58</ID>
+    <Subject>adasd</Subject>
+    <Start>2012-02-28T00:00Z</Start>
+    <End>2012-03-04T00:00Z</End>
+    <Resources>
+      <Month Key="1" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>59</ID>
+    <Subject>asdasd</Subject>
+    <Start>2012-04-11T00:00Z</Start>
+    <End>2012-04-12T00:00Z</End>
+  </Appointment>
+</Appointments>

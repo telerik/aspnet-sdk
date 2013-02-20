@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Appointments>
+  <NextID>20</NextID>
+  <Resources>
+    <Room>
+      <Key>1</Key>
+      <Text>Meeting room 101</Text>
+    </Room>
+    <Room>
+      <Key>2</Key>
+      <Text>Meeting room 201</Text>
+    </Room>
+    <Room>
+      <Key>3</Key>
+      <Text>Meeting room 301</Text>
+    </Room>
+    <Room>
+      <Key>4</Key>
+      <Text>Meeting room 401</Text>
+    </Room>
+    <Room>
+      <Key>5</Key>
+      <Text>Meeting room 501</Text>
+    </Room>
+    <Room>
+      <Key>6</Key>
+      <Text>Meeting room 601</Text>
+    </Room>
+    <User>
+      <Key>1</Key>
+      <Text>Alex</Text>
+    </User>
+    <User>
+      <Key>2</Key>
+      <Text>Bob</Text>
+    </User>
+    <User>
+      <Key>3</Key>
+      <Text>Charlie</Text>
+    </User>
+    <User>
+      <Key>4</Key>
+      <Text>Daniel</Text>
+    </User>
+    <User>
+      <Key>5</Key>
+      <Text>Emma</Text>
+    </User>
+    <User>
+      <Key>6</Key>
+      <Text>Fran</Text>
+    </User>
+    <User>
+      <Key>7</Key>
+      <Text>George</Text>
+    </User>
+    <User>
+      <Key>7</Key>
+      <Text>Bro</Text>
+    </User>
+  </Resources>
+  <Appointment>
+    <ID>1</ID>
+    <Subject>Meeting with customers.</Subject>
+    <Start>2007-03-30T06:00Z</Start>
+    <End>2007-03-30T08:00Z</End>
+    <Resources>
+      <User Key="2" />
+      <User Key="3" />
+      <Room Key="1" />
+    </Resources>
+    <Attribute Key="Annotations" Value="Sample note" />
+  </Appointment>
+  <Appointment>
+    <ID>2</ID>
+    <Subject>Take the car to the service.</Subject>
+    <Start>2007-03-30T09:00Z</Start>
+    <End>2007-03-30T10:30Z</End>
+    <Resources>
+      <User Key="1" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>3</ID>
+    <Subject>Guided tour for the investors.</Subject>
+    <Start>2007-03-28T06:00Z</Start>
+    <End>2007-03-28T08:00Z</End>
+    <Resources>
+      <User Key="2" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>4</ID>
+    <Subject>Construction documentation review.</Subject>
+    <Start>2007-03-26T08:00Z</Start>
+    <End>2007-03-26T10:00Z</End>
+    <Resources>
+      <User Key="1" />
+      <User Key="2" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>10</ID>
+    <Subject>asd</Subject>
+    <Start>2009-08-25T09:00Z</Start>
+    <End>2009-08-25T10:00Z</End>
+    <Resources>
+      <Room Key="1" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>11</ID>
+    <Subject>s</Subject>
+    <Start>2009-08-25T09:00Z</Start>
+    <End>2009-08-25T10:00Z</End>
+    <Resources>
+      <Room Key="2" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>12</ID>
+    <Subject>alex, charlie</Subject>
+    <Start>2009-08-25T08:00Z</Start>
+    <End>2009-08-25T09:00Z</End>
+    <Resources>
+      <User Key="2" />
+      <User Key="3" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>13</ID>
+    <Subject>asdasdas asa sas </Subject>
+    <Start>2012-09-19T09:30Z</Start>
+    <End>2012-09-19T10:30Z</End>
+    <Resources>
+      <User Key="1" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>14</ID>
+    <Subject>asdas</Subject>
+    <Start>2012-10-04T09:00Z</Start>
+    <End>2012-10-04T10:00Z</End>
+    <Resources>
+      <User Key="1" />
+      <User Key="3" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>15</ID>
+    <Subject>aasasdasdd</Subject>
+    <Start>2012-10-04T11:00Z</Start>
+    <End>2012-10-04T12:00Z</End>
+    <Resources>
+      <User Key="1" />
+      <User Key="4" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>16</ID>
+    <Subject>asdasd</Subject>
+    <Start>2012-10-04T10:30Z</Start>
+    <End>2012-10-04T11:30Z</End>
+    <Resources>
+      <User Key="1" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>17</ID>
+    <Subject>asasd</Subject>
+    <Start>2012-10-04T10:30Z</Start>
+    <End>2012-10-04T11:30Z</End>
+    <Resources>
+      <User Key="2" />
+      <User Key="3" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>18</ID>
+    <Subject>asdasdasa</Subject>
+    <Start>2012-10-04T10:30Z</Start>
+    <End>2012-10-04T11:30Z</End>
+    <Resources>
+      <User Key="1" />
+      <User Key="5" />
+      <User Key="6" />
+    </Resources>
+  </Appointment>
+  <Appointment>
+    <ID>19</ID>
+    <Subject>asdas</Subject>
+    <Start>2012-12-15T08:30Z</Start>
+    <End>2012-12-15T09:30Z</End>
+    <Resources>
+      <User Key="1" />
+      <User Key="3" />
+      <User Key="4" />
+    </Resources>
+  </Appointment>
+</Appointments>
