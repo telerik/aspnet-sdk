@@ -127,37 +127,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultipleResourcesWithProvid
 	EndProjectSection
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 6
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://tfs:8082/defaultcollection
-		SccLocalPath0 = .
-		SccWebProject1 = true
-		SccProjectUniqueName1 = AgendaView
-		SccProjectName1 = AgendaView
-		SccLocalPath1 = AgendaView
-		SccProjectEnlistmentChoice1 = 2
-		SccWebProject2 = true
-		SccProjectUniqueName2 = YearView
-		SccProjectName2 = YearView
-		SccLocalPath2 = YearView
-		SccProjectEnlistmentChoice2 = 2
-		SccWebProject3 = true
-		SccProjectUniqueName3 = FilteringMultipleResourcesWithComboBox
-		SccProjectName3 = FilteringMultipleResourcesWithComboBox
-		SccLocalPath3 = FilteringMultipleResourcesWithComboBox
-		SccProjectEnlistmentChoice3 = 2
-		SccWebProject4 = true
-		SccProjectUniqueName4 = AlphabeticalResourceFiltering
-		SccProjectName4 = AlphabeticalResourceFiltering
-		SccLocalPath4 = AlphabeticalResourceFiltering
-		SccProjectEnlistmentChoice4 = 2
-		SccWebProject5 = true
-		SccProjectUniqueName5 = MultipleResourcesWithProviderAndSQLDataSource
-		SccProjectName5 = MultipleResourcesWithProviderAndSQLDataSource
-		SccLocalPath5 = MultipleResourcesWithProviderAndSQLDataSource
-		SccProjectEnlistmentChoice5 = 2
-	EndGlobalSection
+	 
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection

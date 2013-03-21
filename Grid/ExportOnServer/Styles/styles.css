@@ -1,0 +1,39 @@
+﻿.gridBack
+{
+    background-image: url('back.png');
+    background-repeat: no-repeat;
+    padding-bottom: 10px;
+}
+
+.divPanel
+{
+    width: 618px;
+    padding: 10px 16px 0;
+}
+
+.divPanel .RadGrid
+{
+    margin: 7px 0 5px;
+}
+
+a.linkBtnStyle
+{
+    font-family: 'Segoe UI';
+    font-size: 13px;
+    color: #555;
+    text-decoration: none;
+    margin: 0 30px 0 15px;
+    font-weight: bold;
+}
+
+a.linkBtnStyle:hover
+{
+    color: #333;
+    text-decoration: underline overline;
+}
+
+.exportedFileInfo
+{
+    font-family: 'Segoe UI';
+    font-size: 13px;
+    }
