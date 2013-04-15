@@ -19,7 +19,7 @@
             <asp:ValidationSummary runat="server" />
 
             <telerik:RadTreeList ID="RadTreeList1" runat="server" SelectMethod="GetProducts" UpdateMethod="UpdateProduct" 
-                DeleteMethod="DeleteProduct" InsertMethod="InsertProduct"
+                DeleteMethod="DeleteProduct" InsertMethod="InsertProduct" AllowRecursiveDelete="true"
                  ParentDataKeyNames="ReportsTo" 
                 DataKeyNames="EmployeeID" AutoGenerateColumns="false">
                 <Columns>

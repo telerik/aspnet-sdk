@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1BD9B696-6082-4C3F-A36E-04323A800955}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MegaDropDownMenu", "MegaDropDownMenu", "{88BF0209-A11D-472E-A098-B6455503917E}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/MegaDropDownMenu"
+		Debug.AspNetCompiler.PhysicalPath = "MegaDropDownMenu\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\MegaDropDownMenu\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/MegaDropDownMenu"
+		Release.AspNetCompiler.PhysicalPath = "MegaDropDownMenu\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\MegaDropDownMenu\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63645"
+	EndProjectSection
+EndProject
+Global
+	 
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88BF0209-A11D-472E-A098-B6455503917E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BF0209-A11D-472E-A098-B6455503917E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
