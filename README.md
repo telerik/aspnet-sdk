@@ -6,9 +6,9 @@ Every sample has readme.txt file that describes it in few sentences.
 
 ###HOW TO RUN SAMPLES:
 
-+ Using Visual Studio open a sample as a web site.
-+ Add references to Telerik.Web.UI and Telerik.Web.UI.Skins
-+ Build and run the web site.
+1. Using Visual Studio open a sample as a web site.
+2. Add references to Telerik.Web.UI and Telerik.Web.UI.Skins
+3. Build and run the web site.
 
 ###IMPORTANT:
 
