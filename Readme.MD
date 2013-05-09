@@ -1,4 +1,4 @@
-#Telerik's ASP.NET SDK
+#ASP.NET SDK
 
 The ASP.NET SDK is an easy-to-use infrastructure with developer focused examples for some of the Telerik's ASP.NET Ajax controls.
 Every control has its own folder with subfolders that contain the actual sample. 
