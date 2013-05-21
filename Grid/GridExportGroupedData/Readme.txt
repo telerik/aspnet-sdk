@@ -1,0 +1,1 @@
+This example demonstrates the ability to export grouped data when Biff export format is used.
