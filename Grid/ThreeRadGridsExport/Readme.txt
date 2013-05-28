@@ -1,0 +1,1 @@
+The purpose of the this example is to demonstrates how to export multiple RadGrid in different Excel spreadsheets. In order to accomplish that we used the Export Infrastructure which is flexible enough and could be used for achieving different scenarios.
