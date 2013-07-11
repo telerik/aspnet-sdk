@@ -1,0 +1,16 @@
+﻿        .divLeft
+        {
+            float: left;
+            width: 550px;
+            line-height: 25px;
+        }
+        .divRight
+        {
+            float: left;
+            line-height: 25px;
+        }
+        .divBottom
+        {
+            width: 250px;
+            text-align: right;
+        }
