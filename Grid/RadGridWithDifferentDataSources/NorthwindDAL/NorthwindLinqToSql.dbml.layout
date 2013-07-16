@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 14.5, 20.375" name="NorthwindLinqToSql">
+  <DataContextMoniker Name="/NorthwindLinqToSqlDataContext" />
+  <nestedChildShapes>
+    <classShape Id="3714f96e-62db-4a72-b8e4-8880b959feaa" absoluteBounds="3.75, 14.625, 2, 1.5785953776041684">
+      <DataClassMoniker Name="/NorthwindLinqToSqlDataContext/Category" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c1e0600b-d433-490d-8423-772849823513" absoluteBounds="3.765, 15.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bd708bc4-2a9b-4e79-8726-d2b17de4579b" absoluteBounds="9.5, 7.375, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/NorthwindLinqToSqlDataContext/Territory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2605d804-e206-4582-92b9-34b6a3c00471" absoluteBounds="9.515, 7.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="58d30cea-18aa-481b-8348-7b9a828104d5" absoluteBounds="3.5, 3.75, 2, 1.1939925130208327">
+      <DataClassMoniker Name="/NorthwindLinqToSqlDataContext/CustomerCustomerDemo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f9598172-353b-414c-b5c6-7761a69cc6e8" absoluteBounds="3.515, 4.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c54f541c-1a0d-4f1e-a96f-847b0e515e9f" absoluteBounds="0.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/NorthwindLinqToSqlDataContext/CustomerDemographic" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6c7d736e-acdd-493a-9008-8b6de91db10c" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="22671537-b181-4527-a458-13c958c0c8c9" absoluteBounds="0.75, 2.75, 2, 3.1170068359375">
+      <DataClassMoniker Name="/NorthwindLinqToSqlDataContext/Customer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f1060870-fec7-4468-aecf-e91c2a933117" absoluteBounds="0.765, 3.21, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6d1de318-7bc9-4a18-a013-0b3eeda5fa2c" absoluteBounds="3.75, 8.625, 2, 4.2708154296874987">
+      <DataClassMoniker Name="/NorthwindLinqToSqlDataContext/Employee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b28a64cf-313a-4955-8210-478fb667174b" absoluteBounds="3.765, 9.085, 1.9700000000000002, 3.7108154296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="44da2342-5973-49ef-87ef-86d51d09efd7" absoluteBounds="12.25, 9.5, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/NorthwindLinqToSqlDataContext/EmployeeTerritory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3398172c-7bd7-449f-b6ed-2a078e27ec03" absoluteBounds="12.265, 9.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a810d723-0c86-4e82-b74b-36f42c4081dc" absoluteBounds="6.75, 10.25, 2, 4.2708154296874987">
+      <DataClassMoniker Name="/NorthwindLinqToSqlDataContext/LargeEmployee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="606a415c-5600-4041-a68f-a5ec59f189b2" absoluteBounds="6.765, 10.71, 1.9700000000000002, 3.7108154296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4cfae2e5-b8a9-45c4-aa23-4903f9af2612" absoluteBounds="9.25, 3.5, 2, 1.7708968098958322">
+      <DataClassMoniker Name="/NorthwindLinqToSqlDataContext/Order_Detail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9a3cb0ac-b393-4502-82ab-3ebdf4d108a2" absoluteBounds="9.265, 3.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f87c325c-0b16-472b-993e-02375c8af1ff" absoluteBounds="6.5, 2.625, 2, 3.5016097005208322">
+      <DataClassMoniker Name="/NorthwindLinqToSqlDataContext/Order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9cf95a95-bb5d-4e51-afd3-299575360c2d" absoluteBounds="6.515, 3.085, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2fd49496-738c-4720-af19-101b3762ce38" absoluteBounds="6.5, 16, 2, 2.7324039713541683">
+      <DataClassMoniker Name="/NorthwindLinqToSqlDataContext/Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dabb9168-3040-42c1-8c58-4439137a6c45" absoluteBounds="6.515, 16.46, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ea8ef3ae-6fed-4758-906c-1ec57ab549ed" absoluteBounds="6.75, 7.5, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/NorthwindLinqToSqlDataContext/Region" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8893daf7-2135-472e-b5ce-3e8ec98baaca" absoluteBounds="6.765, 7.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="73524eb6-96bd-4954-9478-dde1660e29cc" absoluteBounds="3.75, 6.5, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/NorthwindLinqToSqlDataContext/Shipper" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6e7f82be-f300-4a02-8326-e36aeead39bf" absoluteBounds="3.765, 6.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="206fd175-a83a-4a97-9901-11f9cc6804d4" absoluteBounds="3.75, 17, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/NorthwindLinqToSqlDataContext/Supplier" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8de8d2d2-4ad1-477b-a273-62841a2a4ba3" absoluteBounds="3.765, 17.46, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.34699625651042); (4.5 : 1.34699625651042); (4.5 : 3.75)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/NorthwindLinqToSqlDataContext/CustomerDemographic/CustomerDemographic_CustomerCustomerDemo" />
+      <nodes>
+        <classShapeMoniker Id="c54f541c-1a0d-4f1e-a96f-847b0e515e9f" />
+        <classShapeMoniker Id="58d30cea-18aa-481b-8348-7b9a828104d5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.34699625651042); (3.5 : 4.34699625651042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/NorthwindLinqToSqlDataContext/Customer/Customer_CustomerCustomerDemo" />
+      <nodes>
+        <classShapeMoniker Id="22671537-b181-4527-a458-13c958c0c8c9" />
+        <classShapeMoniker Id="58d30cea-18aa-481b-8348-7b9a828104d5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.45923076923077 : 12.8958154296875); (4.45923076923077 : 13.1458154296875); (5.05461538461539 : 13.1458154296875); (5.05461538461539 : 12.8958154296875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/NorthwindLinqToSqlDataContext/Employee/Employee_Employee" />
+      <nodes>
+        <classShapeMoniker Id="6d1de318-7bc9-4a18-a013-0b3eeda5fa2c" />
+        <classShapeMoniker Id="6d1de318-7bc9-4a18-a013-0b3eeda5fa2c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 9.84375); (9.26041666666667 : 9.84375 : JumpStart); (9.42708333333333 : 9.84375 : JumpEnd); (12.25 : 9.84375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/NorthwindLinqToSqlDataContext/Employee/Employee_EmployeeTerritory" />
+      <nodes>
+        <classShapeMoniker Id="6d1de318-7bc9-4a18-a013-0b3eeda5fa2c" />
+        <classShapeMoniker Id="44da2342-5973-49ef-87ef-86d51d09efd7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.5 : 8.06814697265625); (13.25 : 8.06814697265625); (13.25 : 9.5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/NorthwindLinqToSqlDataContext/Territory/Territory_EmployeeTerritory" />
+      <nodes>
+        <classShapeMoniker Id="bd708bc4-2a9b-4e79-8726-d2b17de4579b" />
+        <classShapeMoniker Id="44da2342-5973-49ef-87ef-86d51d09efd7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 4.38544840494792); (9.25 : 4.38544840494792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/NorthwindLinqToSqlDataContext/Order/Order_Order_Detail" />
+      <nodes>
+        <classShapeMoniker Id="f87c325c-0b16-472b-993e-02375c8af1ff" />
+        <classShapeMoniker Id="4cfae2e5-b8a9-45c4-aa23-4903f9af2612" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 3.21875); (6.5 : 3.21875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/NorthwindLinqToSqlDataContext/Customer/Customer_Order" />
+      <nodes>
+        <classShapeMoniker Id="22671537-b181-4527-a458-13c958c0c8c9" />
+        <classShapeMoniker Id="f87c325c-0b16-472b-993e-02375c8af1ff" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 9.26886875651042); (6.59375 : 9.26886875651042); (6.59375 : 6.12660970052083)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/NorthwindLinqToSqlDataContext/Employee/Employee_Order" />
+      <nodes>
+        <classShapeMoniker Id="6d1de318-7bc9-4a18-a013-0b3eeda5fa2c" />
+        <classShapeMoniker Id="f87c325c-0b16-472b-993e-02375c8af1ff" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 17.3662019856771); (9.34375 : 17.3662019856771); (9.34375 : 5.27089680989583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/NorthwindLinqToSqlDataContext/Product/Product_Order_Detail" />
+      <nodes>
+        <classShapeMoniker Id="2fd49496-738c-4720-af19-101b3762ce38" />
+        <classShapeMoniker Id="4cfae2e5-b8a9-45c4-aa23-4903f9af2612" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 15.3124995); (7.5 : 15.3124995); (7.5 : 16)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/NorthwindLinqToSqlDataContext/Category/Category_Product" />
+      <nodes>
+        <classShapeMoniker Id="3714f96e-62db-4a72-b8e4-8880b959feaa" />
+        <classShapeMoniker Id="2fd49496-738c-4720-af19-101b3762ce38" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 8.09699625651042); (9.26041666666667 : 8.09699625651042 : JumpStart); (9.42708333333333 : 8.09699625651042 : JumpEnd); (9.5 : 8.09699625651042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/NorthwindLinqToSqlDataContext/Region/Region_Territory" />
+      <nodes>
+        <classShapeMoniker Id="ea8ef3ae-6fed-4758-906c-1ec57ab549ed" />
+        <classShapeMoniker Id="bd708bc4-2a9b-4e79-8726-d2b17de4579b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 6.96875); (6.5624975 : 6.96875); (6.5624975 : 6.12660970052083)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/NorthwindLinqToSqlDataContext/Shipper/Shipper_Order" />
+      <nodes>
+        <classShapeMoniker Id="73524eb6-96bd-4954-9478-dde1660e29cc" />
+        <classShapeMoniker Id="f87c325c-0b16-472b-993e-02375c8af1ff" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 17.8662019856771); (6.5 : 17.8662019856771)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/NorthwindLinqToSqlDataContext/Supplier/Supplier_Product" />
+      <nodes>
+        <classShapeMoniker Id="206fd175-a83a-4a97-9901-11f9cc6804d4" />
+        <classShapeMoniker Id="2fd49496-738c-4720-af19-101b3762ce38" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

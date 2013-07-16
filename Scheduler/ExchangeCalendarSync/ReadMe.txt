@@ -1,0 +1,2 @@
+This example demonstrates how you can synchronize the RadScheduler with the Exchange server account using Exchange Web Services over HTTP/HTTPS. 
+In order to run the project successfully please use your Exchange account credentials as shown in the Default.aspx.cs file.  
