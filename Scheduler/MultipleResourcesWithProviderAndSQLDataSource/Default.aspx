@@ -20,7 +20,7 @@
         </Scripts>
     </telerik:RadScriptManager>
     <telerik:RadScheduler runat="server" ID="RadScheduler1" CustomAttributeNames="AppointmentColor"
-        EnableViewState="false" GroupBy="Student" EnableDescriptionField="True" OnTimeSlotCreated="RadScheduler1_TimeSlotCreated">
+        EnableViewState="false" GroupBy="Student" EnableDescriptionField="True">
         <TimelineView UserSelectable="false" />
         <TimeSlotContextMenuSettings EnableDefault="true" />
         <AppointmentContextMenuSettings EnableDefault="true" />
