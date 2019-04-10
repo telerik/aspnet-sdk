@@ -1,1 +1,1 @@
-Examples related to RadGrid
+Examples related to RadGrid without Batch Editing.
