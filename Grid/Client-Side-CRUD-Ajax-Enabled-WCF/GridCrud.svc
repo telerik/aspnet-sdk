@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="GridCrud" CodeBehind="~/App_Code/GridCrud.cs" %>
