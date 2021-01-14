@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Welcome to the Telerik UI for ASP.NET AJAX examples repository
 
-You can use the [editor on GitHub](https://github.com/telerik/aspnet-sdk/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here you can find various demos prepare for and from users of the [Telerik UI for ASP.NET AJAX](https://www.telerik.com/products/aspnet-ajax.aspx) suite. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Official resources links
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h3>Getting started</h3>
+<ul>
+    <li><a href="https://demos.telerik.com/aspnet-ajax/">Demos</a> </li>
+    <li><a href="https://demos.telerik.com/responsive-web-design-aspnet/samples.aspx">Responsive Demos</a> </li>
+    <li><a href="https://www.telerik.com/aspnet-ajax/sample-applications">Sample Apps</a> </li>
+    <li><a href="https://docs.telerik.com/devtools/aspnet-ajax/introduction">Documentation</a></li>
+</ul>
+<h3>Support Resources</h3>
+<ul>
+    <li><a href="https://www.telerik.com/blogs/.net">Blogs</a></li>
+    <li><a href="https://www.telerik.com/support/code-library/aspnet-ajax">Code Library</a></li>
+    <li><a href="https://www.telerik.com/support/kb/aspnet-ajax">Knowledge Base</a> </li>
+    <li><a href="https://www.telerik.com/aspnet-ajax/trainings">Training</a></li>
+</ul>
+<h3>Community</h3>
+<ul>
+    <li><a href="https://www.telerik.com/forums/aspnet-ajax">Forums</a> </li>
+    <li><a href="https://www.telerik.com/account/support-tickets/available-support-list.aspx">Support Tickets</a> </li>
+    <li><a href="https://feedback.telerik.com/Project/108">Feedback Portal</a></li>
+    <li><a href="https://feedback.telerik.com/Project/184" target="_blank">Document Processing Feedback Portal</a></li>
+</ul>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/telerik/aspnet-sdk/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h3>Services</h3>
+<ul>
+    <li><a href="https://www.telerik.com/services">Telerik Consulting</a></li>
+    <li><a href="https://www.telerik.com/services">Instructor-led Training</a></li>
+    <li><a href="https://www.telerik.com/services">Custom Training</a></li>
+    <li><a href="https://www.telerik.com/services">UI/UX Design</a></li>
+    <li><a href="https://www.telerik.com/services">Staff Augmentation</a></li>
+    <li><a href="https://www.telerik.com/services">Feature Customization</a></li>
+    <li><a href="https://www.telerik.com/services">Custom App Development</a></li>
+    <li><a href="https://www.telerik.com/services">Code/Architecture Reviews</a></li>
+    <li><a href="https://www.telerik.com/services">Custom Built Connectors</a></li>
+    <li><a href="https://www.telerik.com/services">Business Requirement Analysis</a></li>
+</ul>
